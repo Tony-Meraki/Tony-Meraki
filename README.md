@@ -24,9 +24,17 @@ I'm not just a coder; I'm a digital explorer at the frontier of reality and imag
 - **Design Showcase**: Highlighting my UI/UX projects and concepts.
 - **XR Community**: Leading discussions on VR/AR/MR/XR innovations.
 
-## 📈 Stats with Personality
+<!-- ## 📈 Stats with Personality
 
-![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony-Meraki&show_icons=true&theme=synthwave)
+![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony-Meraki&show_icons=true&theme=synthwave) -->
+
+## 📚 Knowledge Sharing
+
+- **Blog Posts**: Dive into my detailed blog posts where I discuss the latest technology trends and my personal insights on software development.
+- **Reading List**: Check out the books I've been reading on advanced programming, AI, and interactive design.
+- **Conferences & Talks**: I regularly attend and sometimes speak at tech conferences. Here's a list of events I've recently been part of.
+- **Tutorials & Guides**: I love to teach and share my knowledge. Have a look at some tutorials I've written for the developer community.
+
 
 ## 📫 Let's Connect
 
