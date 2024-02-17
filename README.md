@@ -26,7 +26,7 @@ I'm not just a coder; I'm a digital explorer at the frontier of reality and imag
 
 ## 📈 Stats with Personality
 
-![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave)
+![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony-Meraki&show_icons=true&theme=synthwave)
 
 ## 📫 Let's Connect
 
