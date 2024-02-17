@@ -30,10 +30,10 @@ I'm not just a coder; I'm a digital explorer at the frontier of reality and imag
 
 ## 📚 Knowledge Sharing
 
-- **Blog Posts**: Dive into my detailed blog posts where I discuss the latest technology trends and my personal insights on software development.
-- **Reading List**: Check out the books I've been reading on advanced programming, AI, and interactive design.
-- **Conferences & Talks**: I regularly attend and sometimes speak at tech conferences. Here's a list of events I've recently been part of.
-- **Tutorials & Guides**: I love to teach and share my knowledge. Have a look at some tutorials I've written for the developer community.
+- **Blog Posts**: Content is currently under organization.
+- **Reading List**: Content is currently under organization.
+- **Conferences & Talks**: Content is currently under organization.
+- **Tutorials & Guides**: Content is currently under organization.
 
 
 ## 📫 Let's Connect
