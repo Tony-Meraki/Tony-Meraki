@@ -23,7 +23,10 @@ I'm not just a coder; I'm a digital explorer at the frontier of reality and imag
 - **Tech Blog**: Delving into AI and interactive tech trends.
 - **Design Showcase**: Highlighting my UI/UX projects and concepts.
 - **XR Community**: Leading discussions on VR/AR/MR/XR innovations.
-
+ **Machine Learning**: Passionate about building and deploying ML models.
+- **Linux**: Experienced in using Linux for development and deployment.
+- **Data Analysis**: Capable of turning data into actionable insights.
+- **C#**: Skilled in C# for robust backend development and Unity game development.
 <!-- ## 📈 Stats with Personality
 
 ![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony-Meraki&show_icons=true&theme=synthwave) -->
