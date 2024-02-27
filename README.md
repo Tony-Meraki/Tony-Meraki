@@ -20,8 +20,6 @@ I'm not just a coder; I'm a digital explorer at the frontier of reality and imag
 ![Machine Learning Badge](https://img.shields.io/badge/-Machine_Learning-FFFFFF?style=for-the-badge&logo=TensorFlow&logoColor=orange)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FFFFFF?style=for-the-badge&logo=Linux&logoColor=black)
 ![Data Analysis Badge](https://img.shields.io/badge/-Data_Analysis-FFFFFF?style=for-the-badge&logo=NumPy&logoColor=blue)
-![C# Badge](https://img.shields.io/badge/-C_Sharp-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=239120)
-![Experimental Design Badge](https://img.shields.io/badge/-Experimental_Design-FFFFFF?style=for-the-badge&logo=Academia&logoColor=green)
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-FFFFFF?style=for-the-badge&logo=GitHub&logoColor=black)
 
 ## 🌐 My Social Palette
