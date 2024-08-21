@@ -47,5 +47,6 @@ I'm not just a coder; I'm a digital explorer at the frontier of reality and imag
 
 - ✉️ **Email**: [rbgud2008@naver.com](mailto:rbgud2008@naver.com)
 - 🔗 **LinkedIn**: [Tony Kim LinkedIn](www.linkedin.com/in/규형-김-31883b196)
-- 📝 **Notion**: [Tony's Notion](https://broad-cold-346.notion.site/c5f4819ad50542168b67faa61ba64dc5?pvs=4)
+- 📝 **Notion**: [Tony's Notion](http://broad-cold-346.notion.site)
+- 📝 **Notion_English**: [Tony's Notion](https://broad-cold-346.notion.site/Kyuhyeong-Kim-Portfolio-c5f4819ad50542168b67faa61ba64dc5?pvs=4)
   
